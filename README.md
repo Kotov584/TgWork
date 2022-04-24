@@ -1,2 +1,2 @@
 # TgWork
-TgWork - Mini PHP framework for building telegram bots using PHP
+TgWork - Mini framework for building telegram bots using PHP
